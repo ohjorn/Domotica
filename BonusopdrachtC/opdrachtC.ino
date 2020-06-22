@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
 
-const char *ssid = "Postma Wifi"; 
-const char *password = "uXKPTJQV05";  
+const char *ssid = "***"; 
+const char *password = "***";  
 const char* host = "script.google.com"; 
 const char* fingerprint = "10 76 e5 ec 2c ed 13 e1 cd 00 25 52 b3 a4 9c c1 83 cf 53 67";
 String url;
