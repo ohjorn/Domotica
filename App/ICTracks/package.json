@@ -29,7 +29,7 @@
     "react-native-gesture-handler": "^1.6.1",
     "react-native-mqtt-client": "0.0.1",
     "react-native-native-mqtt": "^0.1.7",
-    "react-native-reanimated": "^1.9.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-safe-area-context": "^3.0.5",
     "react-native-screens": "^2.8.0",
     "react-native-touchable-scale": "^2.1.1",
